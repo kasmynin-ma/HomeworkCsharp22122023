@@ -1,0 +1,14 @@
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\HWTask01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\HWTask01.AssemblyInfoInputs.cache
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\HWTask01.AssemblyInfo.cs
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\HWTask01.csproj.CoreCompileInputs.cache
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\bin\Debug\net8.0\HWTask01.exe
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\bin\Debug\net8.0\HWTask01.deps.json
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\bin\Debug\net8.0\HWTask01.runtimeconfig.json
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\bin\Debug\net8.0\HWTask01.dll
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\bin\Debug\net8.0\HWTask01.pdb
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\HWTask01.dll
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\refint\HWTask01.dll
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\HWTask01.pdb
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\HWTask01.genruntimeconfig.cache
+C:\Users\Admin\YandexDisk\Обучение\IntroProgrammLanguage\Sem01\HomeworkCsharp22122023\HWTask01\obj\Debug\net8.0\ref\HWTask01.dll
