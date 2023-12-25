@@ -1,35 +1,35 @@
-﻿// Найти максимальное из трех чисел
-// 1. Задать на вход три числа a, b, c 
-// 1. Найти максимальное число из двух чисел a и b
-// 2. Сравнить полученное максимальное число с числом c
-// 3. вывести максимальное полученное число
+﻿using System;
 
-Console.Write("Введите первое число a:");
-int a = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите второе число b:");
-int b = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите третье число c:");
-int c = Convert.ToInt32(Console.ReadLine());
+public class Answer {
+    
+  static int FindMax(int a, int b, int c)
+    {
+      // Введите свое решение ниже  
+    int max = a;
+      if (a > max) {max = a;} 
+      if (b > max) {max = b;}
+      if (c > max) {max = c;}
+    return max;
+    
+    }
+        
+  // Не удаляйте и не меняйте метод Main! 
+  static public void Main(string[] args) {
+        int a, b, c;
 
-if (a > b)
-{
-    if (a > c)
-    {
-        Console.WriteLine("Максимально число: " + a);
-    }
-    else
-    {
-        Console.WriteLine("Максимально число: " + c);
-    }
-}
-else
-{
-    if (b > c)
-    {
-        Console.WriteLine("Максимально число: " + b);
-    }
-    else
-    {
-        Console.WriteLine("Максимально число: " + c);
+        if (args.Length >= 3) {
+           a = int.Parse(args[0]);
+           b = int.Parse(args[1]);
+           c = int.Parse(args[2]);
+        } else {
+           // Здесь вы можете поменять значения для отправки кода на Выполнение
+           a = 5;
+           b = 6;
+           c = 7;
+        }
+
+        // Не удаляйте строки ниже
+        int result = FindMax(a, b, c);
+        System.Console.WriteLine($"{result}");
     }
 }
